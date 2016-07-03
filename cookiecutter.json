@@ -4,6 +4,7 @@
     "author_name": "Your Name",
     "email": "Your email",
     "description": "A short description of the project.",
+    "use_bootstrap_4": "yes",
     "year": "Current year",
     "use_sqlite_as_local_db_engine": "no",
     "with_documentation": "yes"
